@@ -13,7 +13,7 @@
   </a>
 </div>
 <h1 align="center">
-  hi there
+  Hi, I'm Alexandra
   <img src="https://media.giphy.com/media/42xx0590JGrHknXiJy/giphy.gif" width="40px"/>
 </h1>
 
