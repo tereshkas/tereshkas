@@ -19,8 +19,8 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Junior Data Analyst <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30">
+### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="40">About Me :
+I am a Junior Data Analyst
 - The love of data analysis and processing motivates me to master new tools for working with.
 
 - I like to get to the bottom of the matter, I always bring things to the end and on time, I know how to organize my working time, trying to be as efficient as possible.
