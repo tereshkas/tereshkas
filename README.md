@@ -23,14 +23,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Analyst <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30"> from Belarus.
-- :telescope: ...
+I am a Data Analyst <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30">
+- The love of data analysis and processing motivates me to master new tools for working with.
 
-- :seedling: ...
+- I like to get to the bottom of the matter, I always bring things to the end and on time, I know how to organize my working time, trying to be as efficient as possible.
 
-- :zap: ...
+- I do not stop there - I take additional courses, read specialized literature and get interested in the relevant telegram channels.
 
-- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tereshka-lightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-tereshka-085769271/)
+- How to reach me   [![Linkedin Badge](https://img.shields.io/badge/-tereshka-lightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-tereshka-085769271/)
 
 ---
 
@@ -47,6 +47,14 @@ I am a Data Analyst <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### 📖 Education:
+- *Higher Education*
+
+__BSEU (2018-2022):__ Faculty of International Economic Relations (Business Administration). 
+- *Additional*
 <!--
 **tereshkas/tereshkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
