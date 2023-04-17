@@ -8,7 +8,7 @@
   <a href="https://t.me/tereshkaa">
     <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=black&style=flat" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:didibu18@gmail.com">
+  <a href="mailto:tereshka.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pink?logo=gmail&logoColor=white&style=flat" alt="Gmail Badge"/>
   </a>
 </div>
@@ -27,11 +27,9 @@ I am a Junior Data Analyst
 
 - I do not stop there - I take additional courses, read specialized literature and get interested in the relevant telegram channels.
 
-- How to reach me   [![Linkedin Badge](https://img.shields.io/badge/-tereshka-lightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-tereshka-085769271/)
-
 ---
 
-### :hammer_and_wrench: Languages and Tools : 
+### Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -47,7 +45,7 @@ I am a Junior Data Analyst
 
 ---
 
-### 📖 Education:
+### Education:
 - *Higher Education*
 
 __BSEU (2018-2022):__ Faculty of International Economic Relations (Business Administration). 
