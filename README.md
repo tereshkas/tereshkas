@@ -20,12 +20,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="40">About Me :
-I am a Junior Data Analyst
-- The love of data analysis and processing motivates me to master new tools for working with.
-
-- I like to get to the bottom of the matter, I always bring things to the end and on time, I know how to organize my working time, trying to be as efficient as possible.
-
-- I do not stop there - I take additional courses, read specialized literature and get interested in the relevant telegram channels.
+Very interested in starting a career in data analytics. At the moment there is a great motivation to work with an experienced strong team focused on growth and to apply knowledge in practice. Data analytics is attractive primarily because in this area there is an opportunity to work on a real product or task, achieving a result useful for the company, and effectively contribute to development, while maintaining the concept of data-driven decision making and logical thinking.
 
 ---
 
@@ -50,6 +45,12 @@ I am a Junior Data Analyst
 
 __BSEU (2018-2022):__ Faculty of International Economic Relations (Business Administration). 
 - *Additional*
+
+__Karpov Courses 2023 (Аналитик данных)__  
+
+__Karpov Courses 2023 (Симулятор SQL)__ 
+
+__Институт биоинформатики.Stepik (Основы Статистики)__
 <!--
 **tereshkas/tereshkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
