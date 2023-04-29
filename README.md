@@ -19,7 +19,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="40">About Me :
+### About Me :
 Very interested in starting a career in data analytics. At the moment there is a great motivation to work with an experienced strong team focused on growth and to apply knowledge in practice. Data analytics is attractive primarily because in this area there is an opportunity to work on a real product or task, achieving a result useful for the company, and effectively contribute to development, while maintaining the concept of data-driven decision making and logical thinking.
 
 ---
